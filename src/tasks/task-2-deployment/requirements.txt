@@ -1,0 +1,12 @@
+streamlit
+numpy
+plotly
+folium==0.12.1
+pandas==1.2.4
+matplotlib
+seaborn
+geopandas
+geopy==2.2.0
+streamlit_folium==0.4.0
+matplotlib>=3.2.2
+branca==0.3.1
